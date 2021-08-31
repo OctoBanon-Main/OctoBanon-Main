@@ -4,8 +4,6 @@
 <h1> Hi there 👋 </h1>
 
 <h2>
-
-- 🔭 I’m currently working on Unnamed Bot.
   
 - 🌱 I’m currently learning C++.
   
