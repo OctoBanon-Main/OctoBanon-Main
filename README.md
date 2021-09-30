@@ -9,7 +9,7 @@
 At this moment i'm working on one project
 
 # My projects
-* Unnamed Bot (currently archived)
+* UnnamedBot (currently archived)
 
 # Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OctoBanon-Main&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
