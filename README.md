@@ -1,15 +1,24 @@
 # Hi there! I'm Octo.
 
-**About me:** Shitty developer.
-
-**Age:** 15 years.
-
-**Programming languages:** Python, C++ (learning)
-
-At this moment i'm working on one project
-
-# My projects
-* UnnamedBot (currently archived)
+```C++
+#include <iostream>
+#include <string>
+ 
+void main()
+{
+    std::string aboutMe[6] = {
+        "Name: OctoBanon", 
+        "Age: 15 years", 
+        "Description: Shitty developer who loves what he does xd", 
+        "Programming languages: Python and C++ (learning)",
+        "Projects: UnnamedBot (currently archived)"
+        "Status: At this moment i'm working on one project"
+    };
+ 
+    for (int i = 0; i < 4; i++)
+        std::cout << aboutMe[i] << "\n";
+}
+```
 
 # Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OctoBanon-Main&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
