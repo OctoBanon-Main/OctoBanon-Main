@@ -14,9 +14,6 @@ int main()
         "Projects: UnnamedBot (currently archived)",
         "Status: At this moment i'm working on one project"
     };
- 
-    for (int i = 0; i < 6; i++)
-        std::cout << aboutMe[i] << "\n";
 }
 ```
 
