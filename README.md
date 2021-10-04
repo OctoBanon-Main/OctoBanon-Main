@@ -11,11 +11,11 @@ int main()
         "Age: 15 years", 
         "Description: Shitty developer who loves what he does xd", 
         "Programming languages: Python and C++ (learning)",
-        "Projects: UnnamedBot (currently archived)"
+        "Projects: UnnamedBot (currently archived)",
         "Status: At this moment i'm working on one project"
     };
  
-    for (int i = 0; i < 4; i++)
+    for (int i = 0; i < 6; i++)
         std::cout << aboutMe[i] << "\n";
 }
 ```
