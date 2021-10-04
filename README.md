@@ -4,7 +4,7 @@
 #include <iostream>
 #include <string>
  
-void main()
+int main()
 {
     std::string aboutMe[6] = {
         "Name: OctoBanon", 
