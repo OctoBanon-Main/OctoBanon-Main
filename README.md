@@ -11,7 +11,7 @@ int main()
         "Age: 15 years", 
         "Description: Shitty developer who loves what he does xd", 
         "Programming languages: Python and C++ (learning)",
-        "Projects: UnnamedBot (currently archived)",
+        "Projects: UnnamedBot (Currently archived), FileSorter (Fork)",
         "Status: At this moment i'm working on one project"
     };
 }
