@@ -12,7 +12,7 @@ int main()
         "Description: Shitty developer who loves what he does xd", 
         "Programming languages: Python and C++ (learning)",
         "Projects: Orchestra, FileSorter (Fork)",
-        "Status: At this moment i'm working on one project"
+        "Status: Developing the Orchestra bot. Busy at this moment."
     };
 }
 ```
