@@ -10,7 +10,7 @@ int main()
         "Name: OctoBanon", 
         "Age: 15 years", 
         "Description: Shitty developer who loves what he does xd", 
-        "Programming languages: Python and C++ (learning)",
+        "Programming languages: Python and C++ (learning), JavaScript",
         "Projects: Orchestra, FileSorter (Fork)",
         "Status: Developing the Orchestra bot. Busy at this moment."
     };
