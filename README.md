@@ -11,7 +11,7 @@ int main()
         "Age: 15 years", 
         "Description: Shitty developer who loves what he does xd", 
         "Programming languages: Python and C++ (learning), JavaScript",
-        "Projects: Orchestra, FileSorter (Fork)",
+        "Projects: Orchestra",
         "Status: Developing the Orchestra bot. Busy at this moment."
     };
 }
