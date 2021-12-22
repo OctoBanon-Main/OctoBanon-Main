@@ -16,7 +16,7 @@ int main()
 }
 ```
 
-# Stats
+# My stats
 <p align="center">
  </a>
   <a href="https://github.com/OctoBanon-Main/OctoBanon-Main/">
