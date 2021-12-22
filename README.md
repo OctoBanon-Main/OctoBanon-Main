@@ -17,6 +17,6 @@ int main()
 ```
 
 # Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OctoBanon-Main&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OctoBanon-Main&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=OctoBanon-Main&bg_color=151515&color=ffffff&line=FFB56D&point=ffffff)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OctoBanon-Main&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OctoBanon-Main&theme=dark&layout=compact)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=OctoBanon-Main&bg_color=151515&color=ffffff&line=FFB56D&point=ffffff)
