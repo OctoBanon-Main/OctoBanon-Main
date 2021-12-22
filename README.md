@@ -17,6 +17,11 @@ int main()
 ```
 
 # Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OctoBanon-Main&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OctoBanon-Main&theme=dark&layout=compact)
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=OctoBanon-Main&bg_color=151515&color=ffffff&line=FFB56D&point=ffffff)
+<p align="center">
+ </a>
+  <a href="https://github.com/OctoBanon-Main/OctoBanon-Main/">
+   <img src="https://github-readme-stats.vercel.app/api?username=OctoBanon-Main&theme=dark" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctoBanon-Main&theme=dark&layout=compact" />
+   <img src="https://activity-graph.herokuapp.com/graph?username=OctoBanon-Main&bg_color=151515&color=ffffff&line=FFB56D&point=ffffff" />
+ </a>
+</p>
