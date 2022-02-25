@@ -6,8 +6,9 @@
  
 int main()
 {
-    std::string aboutMe[5] = {
-        "Name: OctoBanon", 
+    std::string aboutMe[6] = {
+        "Nickname: OctoBanon",
+        "Real Name Maxim",
         "Description: Shitty developer who loves what he does xd", 
         "Programming languages: C++ (learning), JavaScript",
         "Projects: Orchestra",
