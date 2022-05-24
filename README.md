@@ -8,7 +8,7 @@ int main()
 {
     std::string aboutMe[6] = {
         "Nickname: OctoBanon",
-        "Real Name Maxim",
+        "Real Name: Maxim",
         "Description: Shitty developer who loves what he does xd", 
         "Programming languages: C++ (learning), JavaScript",
         "Projects: Orchestra",
