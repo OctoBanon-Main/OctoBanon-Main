@@ -5,4 +5,4 @@
 - Currently working on Orchid Mod
 
 ### Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OctoBanon-Main&show_icons=true&theme=radical)
+![OctoBanon's GitHub stats](https://github-readme-stats.vercel.app/api?username=OctoBanon-Main&show_icons=true&theme=dark)
