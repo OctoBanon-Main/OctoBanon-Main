@@ -1,7 +1,7 @@
 ### About me
 
 - 18 y.o. developer and system administrator, living somewhere in Russia.
-- Trying to learn TypeScript, Rust and Java.
+- Trying to learn TypeScript, Rust.
 - Currently working on PixCentral
 
 ### Stats
