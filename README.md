@@ -1,6 +1,6 @@
 ### About me
 
-- 18 y.o. developer and system administrator, living somewhere in Russia.
+- 19 y.o. developer and system administrator, living somewhere in Russia.
 - Trying to learn Rust.
 - Currently working in [Nexon Collective](https://github.com/NexonCollective)
 
